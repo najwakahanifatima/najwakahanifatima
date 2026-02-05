@@ -15,15 +15,11 @@ Welcome to my GitHub profile! I'm passionate about building software, solving pr
 
 ## 🔧 Skills & Technologies
 
-| Language | Experience |
-|----------|------------|
-| Python   | ⭐⭐⭐⭐ |
-| Java     | ⭐⭐⭐⭐ |
-| C++      | ⭐⭐⭐ |
-| C       | ⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
-
----
+- Programming Languages: Java, JavaScript, Typescript, SQL, HTML, CSS, C, C++, Python, PHP
+- Framework: ReactJS, Next, Vite, React Native, Hono, NestJS 
+- Skills: Object-Oriented Programming, Web Development, Data Structures, REST API, Distributed System 
+- Tools: Git, GitHub, Docker, WSL, Figma, PostgreSQL, Prisma, MySQL, Supabase 
+- Languages: English, Indonesia
 
 ## 📂 Featured Projects
 
