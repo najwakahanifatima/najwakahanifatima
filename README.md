@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building software, solving pr
 Here are some of my public repositories:
 
 ### 🛠 Application Projects
+- [**Nimonspedida**](https://github.com/najwakahanifatima/Nimonspedia-WBD18) - A Full-Stack Marketplace Platform
 - [**HerKarir**](https://github.com/najwakahanifatima/HerKarir-FinalProject) - A Next.js-based job recommendation and career platform that provides personalized learning courses, job opportunities, career preferences, and skill recommendations.
 - [**TravelnShare**](https://github.com/najwakahanifatima/TravelnShare) – Front end & UI/UX project built on Next.js.
 - [**EduMinds**](https://github.com/najwakahanifatima/EduMinds) – AI-based learning platform designed to enhance workforce participation for individuals with intellectual disabilities built on Next.js + NestJS.
